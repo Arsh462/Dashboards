@@ -1,2 +1,2 @@
-# Tableau-Projects
-I will be adding my tableau dashboards/projects here.
+# Dashboards
+I will be adding my dashboards here.
